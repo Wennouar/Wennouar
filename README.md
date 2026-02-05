@@ -33,7 +33,7 @@ Designed and deployed interactive visualizations for KPI tracking.
 ---
 
 ## Education Experience
-* **Associate Teacher:** Expertise in pedagogical engineering and facilitating professional communication workshops for advanced learners (C1/C2 levels).
+* **Associate Teacher:** Expertise in pedagogical engineering and facilitating professional communication workshops for advanced learners (C1/C2 levels)
 
 ---
 
