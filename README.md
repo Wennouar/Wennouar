@@ -5,7 +5,7 @@ Professionnelle basée à **Ottawa**, je me spécialise dans le développement d
 
 ---
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 ### **Programmation & Machine Learning**
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python :** Pandas, NumPy, Scikit-learn, TensorFlow, Keras.
