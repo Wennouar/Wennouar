@@ -7,7 +7,7 @@ Ottawa-based professional specializing in extracting insights from complex datas
 
 ## Technical Stack
 
-### **Programming & Analysis**
+### **Programming & Analysis** 
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) **Python:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras.
 * ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) **SQL:** Complex queries, data cleaning, and database manipulation.
 * ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) **R:** Statistical analysis and modeling.
